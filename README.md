@@ -125,3 +125,8 @@ See [JSFIddle](http://jsfiddle.net/markmarijnissen/VPzu4/286/)
 - Leaflet.AwesomeMarkers and colored markers are licensed under the MIT License - http://opensource.org/licenses/mit-license.html.
 - Font Awesome: http://fortawesome.github.io/Font-Awesome/license/
 - Twitter Bootstrap: http://getbootstrap.com/
+
+-## Contact
+-- Email: atendimento@sigmageosistemas.com.br
+-- Website: http://www.sigmageosistemas.com.br
+-
