@@ -126,7 +126,6 @@ See [JSFIddle](http://jsfiddle.net/markmarijnissen/VPzu4/286/)
 - Font Awesome: http://fortawesome.github.io/Font-Awesome/license/
 - Twitter Bootstrap: http://getbootstrap.com/
 
--## Contact
--- Email: atendimento@sigmageosistemas.com.br
--- Website: http://www.sigmageosistemas.com.br
--
+## Contact
+- Email: atendimento@sigmageosistemas.com.br
+- Website: http://www.sigmageosistemas.com.br
