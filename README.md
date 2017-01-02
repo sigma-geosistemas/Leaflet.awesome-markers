@@ -72,7 +72,7 @@ Add the ionicon stylesheet from a [CDN](http://code.ionicframework.com/ionicons/
 | --------------- | ---------------------- | ------------- | ---------------------------------------------------- |
 | icon            | Name of the icon       | 'home'        | See glyphicons or font-awesome                       |
 | prefix          | Select de icon library | 'glyphicon'   | 'fa' for font-awesome or 'glyphicon' for bootstrap 3 |
-| markerColor     | Color of the marker    | 'blue'        | 'red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpuple', 'cadetblue' |
+| markerColor     | Color of the marker    | 'blue'        | 'white', 'red','darkred', 'lightred', 'orange', 'beige', 'green', 'darkgreen', 'lightgreen', 'blue', 'darkblue', 'lightblue', 'purple', 'darkpurple', 'pink', 'cadetblue', 'white', 'gray', 'lightgray', 'black' |
 | iconColor       | Color of the icon      | 'white'       | 'white', 'black' or css code (hex, rgba etc) |
 | spin            | Make the icon spin     | false         | true or false. Font-awesome required | 
 | extraClasses    | Additional classes in the created <i> tag | '' | 'fa-rotate90 myclass' eller other custom configuration |
@@ -127,7 +127,5 @@ See [JSFIddle](http://jsfiddle.net/markmarijnissen/VPzu4/286/)
 - Twitter Bootstrap: http://getbootstrap.com/
 
 ## Contact
-- Email: lvoogdt@gmail.com
-- Website: http://lennardvoogdt.nl
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lvoogdt/leaflet.awesome-markers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+- Email: atendimento@sigmageosistemas.com.br
+- Website: http://www.sigmageosistemas.com.br
