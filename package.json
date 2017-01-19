@@ -1,0 +1,27 @@
+{
+  "name": "leaflet.awesome-markers",
+  "version": "1.0.0",
+  "description": "Leaflet Awesome Markers. allows you to display custom icons easily using Leaflet",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigma-geosistemas/Leaflet.awesome-markers.git"
+  },
+  "keywords": [
+    "leaflet",
+    "map",
+    "icons"
+  ],
+  "author": "Lennard Voogdt and Sigma Geosistemas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigma-geosistemas/Leaflet.awesome-markers/issues"
+  },
+  "homepage": "https://github.com/sigma-geosistemas/Leaflet.awesome-markers#readme"
+}
