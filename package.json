@@ -1,8 +1,8 @@
 {
   "name": "leaflet.awesome-markers",
   "version": "2.0.4",
-  "description": "Leaflet Awesome Markers. allows you to display custom icons easily using Leaflet",
-  "main": "index.js",
+  "description": "Leaflet Awesome Markers - allows you to display custom icons easily using Leaflet",
+  "main": "dist/leaflet.awesome-markers.js",
   "directories": {
     "example": "examples"
   },
