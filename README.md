@@ -9,10 +9,17 @@ Version 2.0 of Leaflet.awesome-markers is tested with:
 
 For bootstrap 2.x & Fontawesome 3.x use Leaflet.awesome-markers v1.0
 
+Version 1.0 of Leaflet.awesome-markers is tested with:
+- Bootstrap 2
+- Font Awesome 3.0
+- Leaflet 0.5
+
+Use version 2.0 for newer versions of bootstrap and font-awesome!
+
 ## Screenshots
 ![AwesomeMarkers screenshot](https://raw.github.com/lvoogdt/Leaflet.awesome-markers/master/screenshots/screenshot-soft.png "Screenshot of AwesomeMarkers")
-	
-<a href="http://jsfiddle.net/VPzu4/92/" target="_blank">JSfiddle demo</a> 
+
+<a href="http://jsfiddle.net/VPzu4/975/" target="_blank">JSfiddle demo</a> 
 
 ### Twitter Bootstrap/Font-Awesome icons
 This plugin depends on either Bootstrap or Font-Awesome for the rendering of the icons. See these urls for more information:
