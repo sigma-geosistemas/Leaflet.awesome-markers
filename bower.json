@@ -1,10 +1,12 @@
 {
   "name": "Leaflet.awesome-markers",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "homepage": "https://github.com/sigma-geosistemas/Leaflet.awesome-markers",
   "authors": [
     "Lennard Voogdt <lvoogdt@gmail.com>",
-    "Sigma Geosistemas <atendimento@sigmageosistemas.com.br"
+    "George Silva <george@sigmageosistemas.com.br>",
+    "Bhaskar V. Karambelkar <bhaskarvk@gmail.com>",
+    "Andris Nolendorfs"
   ],
   "description": "Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons",
   "main": [

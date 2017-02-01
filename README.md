@@ -9,10 +9,17 @@ Version 2.0 of Leaflet.awesome-markers is tested with:
 
 For bootstrap 2.x & Fontawesome 3.x use Leaflet.awesome-markers v1.0
 
+Version 1.0 of Leaflet.awesome-markers is tested with:
+- Bootstrap 3.3.7
+- Font Awesome 4.7.0
+- Leaflet > 0.7
+
+Use version 2.0 for newer versions of bootstrap and font-awesome!
+
 ## Screenshots
 ![AwesomeMarkers screenshot](https://raw.github.com/lvoogdt/Leaflet.awesome-markers/master/screenshots/screenshot-soft.png "Screenshot of AwesomeMarkers")
-	
-<a href="http://jsfiddle.net/VPzu4/92/" target="_blank">JSfiddle demo</a> 
+
+<a href="http://jsfiddle.net/VPzu4/975/" target="_blank">JSfiddle demo</a> 
 
 ### Twitter Bootstrap/Font-Awesome icons
 This plugin depends on either Bootstrap or Font-Awesome for the rendering of the icons. See these urls for more information:
@@ -72,7 +79,7 @@ Add the ionicon stylesheet from a [CDN](http://code.ionicframework.com/ionicons/
 | --------------- | ---------------------- | ------------- | ---------------------------------------------------- |
 | icon            | Name of the icon       | 'home'        | See glyphicons or font-awesome                       |
 | prefix          | Select de icon library | 'glyphicon'   | 'fa' for font-awesome or 'glyphicon' for bootstrap 3 |
-| markerColor     | Color of the marker    | 'blue'        | 'red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpuple', 'cadetblue' |
+| markerColor     | Color of the marker    | 'blue'        | 'white', 'red','darkred', 'lightred', 'orange', 'beige', 'green', 'darkgreen', 'lightgreen', 'blue', 'darkblue', 'lightblue', 'purple', 'darkpurple', 'pink', 'cadetblue', 'white', 'gray', 'lightgray', 'black' |
 | iconColor       | Color of the icon      | 'white'       | 'white', 'black' or css code (hex, rgba etc) |
 | spin            | Make the icon spin     | false         | true or false. Font-awesome required | 
 | extraClasses    | Additional classes in the created <i> tag | '' | 'fa-rotate90 myclass' eller other custom configuration |
@@ -127,7 +134,5 @@ See [JSFIddle](http://jsfiddle.net/markmarijnissen/VPzu4/286/)
 - Twitter Bootstrap: http://getbootstrap.com/
 
 ## Contact
-- Email: lvoogdt@gmail.com
-- Website: http://lennardvoogdt.nl
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lvoogdt/leaflet.awesome-markers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+- Email: atendimento@sigmageosistemas.com.br
+- Website: http://www.sigmageosistemas.com.br
