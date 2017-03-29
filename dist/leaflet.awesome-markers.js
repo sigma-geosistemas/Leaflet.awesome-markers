@@ -13,7 +13,7 @@
     /*
      * Leaflet.AwesomeMarkers assumes that you have already included the Leaflet library.
      */
-
+	  if (document==null) return ;
     L.AwesomeMarkers = {};
 
     L.AwesomeMarkers.version = '2.0.1';
@@ -119,7 +119,7 @@
         return new L.AwesomeMarkers.Icon(options);
     };
 
-}(this, document));
+}(this, typeof document ==="undefined" ? null : document));
 
 
 
