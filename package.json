@@ -19,6 +19,11 @@
     "icons"
   ],
   "author": "Lennard Voogdt and Sigma Geosistemas",
+  "contributors": [
+    "George Silva <george@sigmageosistemas.com.br>",
+    "Bhaskar V. Karambelkar <bhaskarvk@gmail.com>",
+    "Andris Nolendorfs (https://github.com/theashyster)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sigma-geosistemas/Leaflet.awesome-markers/issues"

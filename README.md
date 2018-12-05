@@ -1,18 +1,27 @@
 # Leaflet.awesome-markers plugin v2.0
 Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons
 
-Version 2.0 of Leaflet.awesome-markers is tested with:
-- Bootstrap 3
-- Font Awesome 4.0
-- Ionicons 1.5.2
-- Leaflet 0.5-Latest
+Version 2.0 of Leaflet.awesome-markers is tested and works with the latest available versions:
 
-For bootstrap 2.x & Fontawesome 3.x use Leaflet.awesome-markers v1.0
+* Bootstrap 3 (up to 3.3.7)
+* Font Awesome 4.0 (up to 4.7.0)
+* Ionicons 1.5.2
+* Leaflet 0.5 (up to 1.0.3)
+
+Use version 2.0.x for compatibility with the newer versions of bootstrap, font-awesome and leaflet.
+
+Version 1.0 of Leaflet.awesome-markers is tested and works with:
+
+* Bootstrap 2
+* Font Awesome 3.0
+* Leaflet 0.5
+
+Use version 1.0.x for compatibility with the older versions of bootstrap, font-awesome and leaflet.
 
 ## Screenshots
 ![AwesomeMarkers screenshot](https://raw.github.com/lvoogdt/Leaflet.awesome-markers/master/screenshots/screenshot-soft.png "Screenshot of AwesomeMarkers")
-	
-<a href="http://jsfiddle.net/VPzu4/92/" target="_blank">JSfiddle demo</a> 
+
+<a href="http://jsfiddle.net/VPzu4/975/" target="_blank">JSfiddle demo</a> 
 
 ### Twitter Bootstrap/Font-Awesome icons
 This plugin depends on either Bootstrap or Font-Awesome for the rendering of the icons. See these urls for more information:
@@ -120,6 +129,8 @@ See [JSFIddle](http://jsfiddle.net/markmarijnissen/VPzu4/286/)
     className: 'awesome-marker awesome-marker-square'
   });
 ````
+
+**note: square markers are only available on the latest versions of Leaflet.Awesome-Markers**
 
 ## License
 - Leaflet.AwesomeMarkers and colored markers are licensed under the MIT License - http://opensource.org/licenses/mit-license.html.
