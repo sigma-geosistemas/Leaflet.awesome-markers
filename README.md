@@ -18,8 +18,8 @@ For bootstrap 2.x & Fontawesome 3.x use Leaflet.awesome-markers v1.0
 This plugin depends on either Bootstrap or Font-Awesome for the rendering of the icons. See these urls for more information:
 
 For Font-Awesome
-- http://fortawesome.github.com/Font-Awesome/
-- http://fortawesome.github.com/Font-Awesome/#integration
+- https://fontawesome.com/docs/web/setup/get-started
+- https://fontawesome.com/docs/web/setup/packages
 
 For Twitter bootstrap:
 - http://twitter.github.com/bootstrap/
