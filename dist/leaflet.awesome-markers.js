@@ -75,7 +75,17 @@
                     iconColorStyle = "style='color: " + options.iconColor + "' ";
                 }
             }
-
+            
+            //Beta testing. Label under marker
+			      var footLbl="";
+			
+			      if(options.label && options.label.trim().length > 0) {
+              var lblClass=options.lblClass ? "class=\"" + options.lblClass : "";
+              var lblStyle=options.lblStyle ? ";"+options.lblStyle : "";
+              var lblBgColor=options.lblBgColor ? ";background-color:"+options.lblBgColor : "";
+              footLbl="<span style=\"margin-top:20px"+lblBgColor+lblStyle+"\" "+lblClass+"\">"+options.label+"</span>"  
+            }
+          
             return "<i " + iconColorStyle + "class='" + options.extraClasses + " " + options.prefix + " " + iconClass + " " + iconSpinClass + " " + iconColorClass + "'></i>";
         },
 
