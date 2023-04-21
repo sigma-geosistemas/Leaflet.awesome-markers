@@ -18,7 +18,17 @@
     "map",
     "icons"
   ],
-  "author": "Lennard Voogdt and Sigma Geosistemas",
+  "author": {
+    "name": "Lennard Voogdt"
+  },
+  "contributors": [
+    {
+      "name": "Sigma Geosistemas"
+    },
+    {
+      "name": "Alexandru Grigoraș"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sigma-geosistemas/Leaflet.awesome-markers/issues"
